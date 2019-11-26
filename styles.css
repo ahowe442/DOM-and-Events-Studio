@@ -5,10 +5,13 @@
     width: 40%;
 }
 
-#rocket .img {
-    position: absolute;
-    left: ;
-    top: ;
+#rocket {
+    position: relative;
+    left: 0px;
+    top: 150px;
 }
 
-<img src="LaunchCode_rocketline_white.png"height="85"width="75"id="rocket">
+/* // left: max = 200 //center= 0 */
+//bottom: max = 270px  top: max = 
+
+/* <img src="LaunchCode_rocketline_white.png"height="85"width="75"id="rocket"> */
