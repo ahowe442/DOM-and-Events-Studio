@@ -4,3 +4,11 @@
     height: 80%;
     width: 40%;
 }
+
+#rocket .img {
+    position: absolute;
+    left: ;
+    top: ;
+}
+
+<img src="LaunchCode_rocketline_white.png"height="85"width="75"id="rocket">
